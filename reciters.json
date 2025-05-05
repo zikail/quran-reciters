@@ -1,0 +1,20 @@
+[
+  {
+    "id": "saad_alghamdi",
+    "name": "Saad Al-Ghamdi",
+    "style": "Murattal",
+    "language": "Arabic",
+    "thumbnail": "https://zikail.github.io/quran-reciters/images/saad_alghamdi.jpg",
+    "description": "Renowned Saudi reciter known for his clear and rhythmic recitation.",
+    "json_url": "https://zikail.github.io/quran-reciters/reciters/saad_alghamdi.json"
+  },
+  {
+    "id": "mishary_alafasy",
+    "name": "Mishary Rashid Alafasy",
+    "style": "Murattal",
+    "language": "Arabic",
+    "thumbnail": "https://zikail.github.io/quran-reciters/images/mishary_alafasy.jpg",
+    "description": "Popular Kuwaiti reciter known for his emotional and melodic recitation.",
+    "json_url": "https://zikail.github.io/quran-reciters/reciters/mishary_alafasy.json"
+  }
+]
